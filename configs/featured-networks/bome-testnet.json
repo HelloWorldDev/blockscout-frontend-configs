@@ -1,0 +1,17 @@
+[
+	{
+		"title": "Bomescan",
+		"url": "https://bomescan.org/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/HelloWorldDev/blockscout-frontend-configs/main/configs/network-icons/bome-icon.svg",
+		"invertIconInDarkMode": true
+	},
+	{
+		"title": "Bomescan Testnet",
+		"url": "https://testnet.bomescan.org/",
+		"group": "Testnets",
+		"isActive": true,
+		"icon": "https://raw.githubusercontent.com/HelloWorldDev/blockscout-frontend-configs/main/configs/network-icons/bome-icon.svg",
+		"invertIconInDarkMode": true
+	}
+]
